@@ -1,0 +1,5 @@
+com\springdockertuto\springdocker\controller\AppController.class
+com\springdockertuto\springdocker\model\AppModel.class
+com\springdockertuto\springdocker\service\AppService.class
+com\springdockertuto\springdocker\dao\AppDBRepository.class
+com\springdockertuto\springdocker\DemoApplication.class
